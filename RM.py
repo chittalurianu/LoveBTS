@@ -1,1 +1,1 @@
-print "I Love BTS, they are AMAZING"
+print ("I Love BTS, they are AMAZING")
